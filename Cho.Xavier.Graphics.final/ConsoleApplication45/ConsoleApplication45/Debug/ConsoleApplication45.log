@@ -1,0 +1,158 @@
+﻿  InitShader.cpp
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  GRAAAAAAPIIIKS.cpp
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(108): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(109): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(110): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(111): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(113): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(114): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(131): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(348): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(349): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(350): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(510): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(516): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(531): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(538): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(545): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(552): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(560): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(568): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(576): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(583): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(590): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(598): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(605): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(612): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(620): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(627): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(634): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(641): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(649): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(657): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(664): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(671): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(678): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(686): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(694): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(702): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(709): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(716): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(724): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(731): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(738): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(746): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(753): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(760): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(767): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(775): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(783): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(790): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(805): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(809): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(853): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(860): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(867): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(875): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(883): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(888): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(896): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(904): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(920): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(927): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(934): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(942): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(950): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(955): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(963): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(971): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(986): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(987): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(988): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(989): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(990): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(991): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(999): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1000): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1001): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1029): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1030): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1043): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1097): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1103): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1104): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1169): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1173): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1174): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1175): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1176): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1244): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1251): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1327): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1330): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1855): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1856): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1860): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(1861): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2009): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2080): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2311): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2311): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2326): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2326): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2341): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2341): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2356): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2356): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2390): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\graaaaaapiiiks.cpp(2390): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  glm.cpp
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(313): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(314): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(315): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(317): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(318): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(319): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(821): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(822): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(823): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(826): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1026): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1183): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1189): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1190): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1248): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1253): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1255): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1258): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1259): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.final\consoleapplication45\consoleapplication45\glm.cpp(1961): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ConsoleApplication45.vcxproj -> C:\Users\choxa\Desktop\Cho.Xavier.Graphics.final\ConsoleApplication45\Debug\ConsoleApplication45.exe
+  ConsoleApplication45.vcxproj -> C:\Users\choxa\Desktop\Cho.Xavier.Graphics.final\ConsoleApplication45\Debug\ConsoleApplication45.pdb (Full PDB)
