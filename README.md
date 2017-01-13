@@ -4,3 +4,4 @@ this final shows the overall technique of instanceing, texture mapping, lighting
 language: opengl
 
 
+keep in mind the .cpp in all capital letters is the main file.
